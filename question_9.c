@@ -126,5 +126,5 @@ int main()
             printf("INVALID CHOICE! TRY AGAIN.\n");
         }
     } while (choice != 3);
-    return 0;
+    return -1;
 }
